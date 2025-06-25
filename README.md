@@ -4,6 +4,52 @@ Repositori ini berisi kumpulan contoh kode dasar Kotlin untuk pemula. Cocok digu
 
 ---
 
+## 📄 Daftar File Kotlin
+
+- [Anonymous Functions](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Anonymous%20Functions.kt)
+- [Break & Continue](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Break%20%26%20continue.kt)
+- [Closure](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Closure.kt)
+- [Higher-Order Functions](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Higher-Order%20Functions.kt)
+- [Inline Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Inline%20Function.kt)
+- [Main.kt](https://github.com/MENSTRUE/kotlin-1/blob/master/src/Main.kt)
+- [Conversion](https://github.com/MENSTRUE/kotlin-1/blob/master/src/coversion.kt)
+- [Do While Loops](https://github.com/MENSTRUE/kotlin-1/blob/master/src/do%20while%20loops.kt)
+- [Extension Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/extection%20function.kt)
+- [For Loops](https://github.com/MENSTRUE/kotlin-1/blob/master/src/for%20loops.kt)
+- [Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/funcition.kt)
+- [Function Default Argument](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20default%20argument.kt)
+- [Function Infix Notation](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20infix%20notation.kt)
+- [Function Named Argument](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20named%20argument.kt)
+- [Function Parameter](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20parameter.kt)
+- [Function Return Type](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20return%20type.kt)
+- [Function Scope](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20scope.kt)
+- [Function Variable Argument](https://github.com/MENSTRUE/kotlin-1/blob/master/src/function%20variable%20argument%20parameter.kt)
+- [If Expression](https://github.com/MENSTRUE/kotlin-1/blob/master/src/if%20expression.kt)
+- [Label](https://github.com/MENSTRUE/kotlin-1/blob/master/src/label.kt)
+- [Lambda Expression](https://github.com/MENSTRUE/kotlin-1/blob/master/src/lambda%20expression.kt)
+- [Main Parameters](https://github.com/MENSTRUE/kotlin-1/blob/master/src/main%20parameters.kt)
+- [Operasi Boolean](https://github.com/MENSTRUE/kotlin-1/blob/master/src/operasi%20boolean.kt)
+- [Operasi Matematika](https://github.com/MENSTRUE/kotlin-1/blob/master/src/operasi%20matematika.kt)
+- [Operasi Perbandingan](https://github.com/MENSTRUE/kotlin-1/blob/master/src/operasi%20perbandingan.kt)
+- [Package & Import](https://github.com/MENSTRUE/kotlin-1/blob/master/src/package%20%26%20import.kt)
+- [Recursive Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/recursive%20function.kt)
+- [Return If & When](https://github.com/MENSTRUE/kotlin-1/blob/master/src/return%20if%20%26%20when.kt)
+- [Sample](https://github.com/MENSTRUE/kotlin-1/blob/master/src/sample.kt)
+- [Single Expression Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/single%20expression%20function.kt)
+- [Tail Recursive Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tail%20recursive%20function.kt)
+- [Tipe Data Array Nullable](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20array%20nullable.kt)
+- [Tipe Data Array](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20array.kt)
+- [Tipe Data Boolean](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20bolean.kt)
+- [Tipe Data Character](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20character.kt)
+- [Tipe Data Number](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20number.kt)
+- [Tipe Data Range](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20range.kt)
+- [Tipe Data String](https://github.com/MENSTRUE/kotlin-1/blob/master/src/tipe%20data%20string.kt)
+- [Unit Returning Function](https://github.com/MENSTRUE/kotlin-1/blob/master/src/unit%20returning%20function.kt)
+- [Variable](https://github.com/MENSTRUE/kotlin-1/blob/master/src/variable.kt)
+- [When Expression](https://github.com/MENSTRUE/kotlin-1/blob/master/src/when%20expression.kt)
+- [While Loops](https://github.com/MENSTRUE/kotlin-1/blob/master/src/while%20loops.kt)
+
+
 ## 🗂️ Struktur File & Penjelasan
 
 ### 🔸 **Dasar Bahasa**
